@@ -7,7 +7,7 @@ p {
   margin: 0px;
 }
 main {
-  border: v;
+  border: 5px solid #4285f4;
   width: 300px;
   text-align: center;
 }
